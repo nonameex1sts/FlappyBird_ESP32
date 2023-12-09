@@ -28,7 +28,7 @@ This project is an implementation of the classic Flappy Bird game on the ESP32 u
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-esp32.git
+   git clone https://github.com/nonameex1sts/FlappyBird_ESP32.git
    ```
 
 2. Open the project in the Arduino IDE.
