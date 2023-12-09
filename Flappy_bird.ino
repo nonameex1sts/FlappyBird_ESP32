@@ -1,4 +1,3 @@
-#include <Wire.h> 
 #include <SSD1306.h>
 #include <Preferences.h>
 
