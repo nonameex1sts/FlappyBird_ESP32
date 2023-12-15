@@ -21,7 +21,7 @@ This project is an implementation of the classic Flappy Bird game on the ESP32 u
 ## Dependencies
 
 - [ThingPulse OLED SSD1306](https://github.com/ThingPulse/esp8266-oled-ssd1306.git): SSD1306 Oled display library for ESP8266 and ESP32.
-- [Preferences](https://www.arduino.cc/reference/en/libraries/preferences/): Library to store the high score in the internal flash filesystem of ESP32.
+- [Preferences](https://github.com/vshymanskyy/Preferences): Library to store the high score in the internal flash filesystem of ESP32.
 
 ## Installation
 
