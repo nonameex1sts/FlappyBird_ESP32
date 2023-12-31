@@ -6,6 +6,10 @@
 
 This project is an implementation of the classic Flappy Bird game on the ESP32 using the Arduino framework. The game is designed to run on a SSD1306 Oled display, providing a fun and interactive experience on the ESP32 platform.
 
+## Video demo
+
+[YouTube](https://youtu.be/28IEaFuHusE)
+
 ## Features
 
 - **Responsive Controls:** Use button to control the bird's flight.
